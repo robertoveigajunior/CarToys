@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CarToys</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_login">Acesso</string>
+    <string name="title_home">Home</string>
+    <string name="title_about">Sobre</string>
+    <string name="title_car_register">Novo carro</string>
+    <string name="title_activity_home">Meus carros</string>
+    <string name="phrase">FIAP</string>
+    <string name="success">Sucesso</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Deletar</string>
+    <string name="login_empty">Usuario está vazio</string>
+    <string name="password_empty">Senha está vazio</string>
+    <string name="dev_name">Roberto Luiz Veiga Junior</string>
+    <string name="login_user">Usuário</string>
+    <string name="Senha">Senha</string>
+    <string name="login_password">Senha</string>
+    <string name="login_enter">Entrar</string>
+    <string name="login_save_login">salvar login</string>
+    <string name="edit_txt_car_name">Nome do carro</string>
+    <string name="edit_txt_car_model">Modelo do carro</string>
+    <string name="edit_text_car_color">Cor do carro</string>
+    <string name="edit_txt_car_scale">Escala do carro</string>
+    <string name="about">Sobre</string>
+    <string name="logout">Sair</string>
+    <string name="add_car">Adicionar novo carro</string>
+    <string name="save">Salvar</string>
+    <string name="new_car">Novo carro</string>
+    <string name="msg_empty">Sua coleção está vazia</string>
+    <string name="erro_login">Erro com a validação do login</string>
+    <string name="erro_api">Erro ao carregar aplicação</string>
+    <string name="appname">appname</string>
+</resources>
