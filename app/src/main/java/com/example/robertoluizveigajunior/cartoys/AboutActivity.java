@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.TextView;
+import com.example.robertoluizveigajunior.cartoys.BuildConfig;
 
 public class AboutActivity extends AppCompatActivity {
 
@@ -17,7 +18,7 @@ public class AboutActivity extends AppCompatActivity {
         TextView txtNomeDev = (TextView) findViewById(R.id.txt_nome_dev);
         txtNomeDev.setText(getString(R.string.dev_name));
         TextView txtPhrase = (TextView) findViewById(R.id.txt_phrase);
-        txtPhrase.setText(getString(R.string.phrase));
+        txtPhrase.setText(BuildConfig.VERSION_NAME);
     }
 
     @Override
