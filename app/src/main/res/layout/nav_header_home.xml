@@ -17,6 +17,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@drawable/frame_14_delay" />
+        app:srcCompat="@drawable/frame_7_delay" />
 
 </LinearLayout>

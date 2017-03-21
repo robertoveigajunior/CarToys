@@ -39,7 +39,7 @@ public class SplashScreenActivity extends AppCompatActivity {
 
     private void startAnimation() {
         ImageView img = (ImageView)findViewById(R.id.imageSplash);
-        img.setBackgroundResource(R.anim.anim);
+        img.setBackgroundResource(R.drawable.anim);
         AnimationDrawable frameAnimation = (AnimationDrawable) img.getBackground();
         frameAnimation.start();
     }

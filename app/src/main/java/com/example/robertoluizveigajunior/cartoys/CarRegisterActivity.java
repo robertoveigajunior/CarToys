@@ -51,7 +51,7 @@ public class CarRegisterActivity extends AppCompatActivity {
 
             case R.id.new_car:
                 if( helper.formValidate() ){
-                    saveCar();
+                    saveCarEditCar();
                 }
                 return false;
 
